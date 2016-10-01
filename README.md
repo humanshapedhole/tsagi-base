@@ -1,4 +1,2 @@
-# tsagi-base
-# test commit added
-# edited by root
-# v0.0.0 << by root
+The new version of TsAGI.Base project: v2.0.0
+Stage: project architectural design
